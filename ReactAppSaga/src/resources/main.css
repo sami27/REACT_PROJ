@@ -1,0 +1,13 @@
+.navbar-right {
+    float: right!important;
+    margin-right: -10px;
+    margin-top: 10px;
+}
+
+.btn{
+    border-radius: 1px !important;
+}
+
+.leftPadding{
+    padding-left: 10% !important;
+}
